@@ -172,3 +172,4 @@ public record User(int id, String name, String email) {}
 - Fix lint warnings — iteration 9 (2026)
 - Add example — iteration 14 (2026)
 - Minor cleanup — iteration 15 (2026)
+- Extend coverage — iteration 16 (2026)
