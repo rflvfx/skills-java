@@ -4,3 +4,4 @@ public record User(int id, String name, String email) {}
 - Optimize performance — iteration 13 (2015)
 - Fix lint warnings — iteration 15 (2015)
 - Refactor module — iteration 16 (2015)
+- Improve naming — iteration 17 (2015)
