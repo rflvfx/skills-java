@@ -14,3 +14,4 @@ public class Main {
 - Add feature — iteration 42 (2015)
 - Minor cleanup — iteration 43 (2015)
 - Minor cleanup — iteration 48 (2015)
+- Document usage — iteration 58 (2015)
