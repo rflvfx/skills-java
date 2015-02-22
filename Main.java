@@ -12,3 +12,4 @@ public class Main {
 - Add example — iteration 30 (2015)
 - Add helper — iteration 35 (2015)
 - Add feature — iteration 42 (2015)
+- Minor cleanup — iteration 43 (2015)
