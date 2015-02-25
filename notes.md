@@ -1,2 +1,3 @@
 - Update docs — iteration 2 (2015)
 - Update config — iteration 19 (2015)
+- Document usage — iteration 20 (2015)
