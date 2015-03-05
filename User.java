@@ -17,3 +17,4 @@ public record User(int id, String name, String email) {}
 - Add example — iteration 51 (2015)
 - Fix typo — iteration 54 (2015)
 - Update docs — iteration 56 (2015)
+- Add example — iteration 57 (2015)
