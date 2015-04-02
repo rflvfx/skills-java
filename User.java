@@ -9,3 +9,4 @@ public record User(int id, String name, String email) {}
 - Update docs — iteration 21 (2015)
 - Improve naming — iteration 23 (2015)
 - Tweak implementation — iteration 33 (2015)
+- Update dependencies — iteration 38 (2015)
