@@ -7,3 +7,4 @@ public class Main {
 - Update docs — iteration 8 (2015)
 - Extend coverage — iteration 9 (2015)
 - Fix typo — iteration 11 (2015)
+- Add helper — iteration 12 (2015)
