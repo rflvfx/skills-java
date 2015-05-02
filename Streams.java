@@ -15,3 +15,4 @@ public class Streams {
 - Fix lint warnings — iteration 10 (2015)
 - Extend coverage — iteration 24 (2015)
 - Polish code — iteration 25 (2015)
+- Tweak implementation — iteration 26 (2015)
