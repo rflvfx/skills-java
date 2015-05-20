@@ -22,3 +22,4 @@ public class Streams {
 - Improve error handling — iteration 39 (2015)
 - Fix lint warnings — iteration 45 (2015)
 - Add feature — iteration 47 (2015)
+- Update docs — iteration 52 (2015)
