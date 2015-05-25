@@ -16,3 +16,4 @@ public class Streams {
 - Extend coverage — iteration 24 (2015)
 - Polish code — iteration 25 (2015)
 - Tweak implementation — iteration 26 (2015)
+- Extend coverage — iteration 27 (2015)
