@@ -9,3 +9,4 @@
 - Update config — iteration 34 (2015)
 - Add helper — iteration 44 (2015)
 - Minor cleanup — iteration 46 (2015)
+- Extend coverage — iteration 53 (2015)
