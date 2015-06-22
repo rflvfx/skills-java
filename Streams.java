@@ -11,3 +11,4 @@ public class Streams {
 }
 - Document usage — iteration 3 (2015)
 - Fix edge case — iteration 4 (2015)
+- Add example — iteration 5 (2015)
