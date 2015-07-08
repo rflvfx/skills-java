@@ -9,3 +9,4 @@ public class Streams {
         System.out.println(evens + " | " + total);
     }
 }
+- Document usage — iteration 3 (2015)
