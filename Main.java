@@ -15,3 +15,4 @@ public class Main {
 - Minor cleanup — iteration 43 (2015)
 - Minor cleanup — iteration 48 (2015)
 - Document usage — iteration 58 (2015)
+- Fix typo — iteration 59 (2015)
