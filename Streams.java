@@ -14,3 +14,4 @@ public class Streams {
 - Add example — iteration 5 (2015)
 - Fix lint warnings — iteration 10 (2015)
 - Extend coverage — iteration 24 (2015)
+- Polish code — iteration 25 (2015)
