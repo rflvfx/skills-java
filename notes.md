@@ -3,3 +3,4 @@
 - Document usage — iteration 20 (2015)
 - Improve naming — iteration 22 (2015)
 - Document usage — iteration 28 (2015)
+- Minor cleanup — iteration 29 (2015)
