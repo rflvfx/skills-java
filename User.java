@@ -6,3 +6,4 @@ public record User(int id, String name, String email) {}
 - Refactor module — iteration 16 (2015)
 - Improve naming — iteration 17 (2015)
 - Improve naming — iteration 18 (2015)
+- Update docs — iteration 21 (2015)
