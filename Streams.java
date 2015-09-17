@@ -19,3 +19,4 @@ public class Streams {
 - Extend coverage — iteration 27 (2015)
 - Update docs — iteration 36 (2015)
 - Fix edge case — iteration 37 (2015)
+- Improve error handling — iteration 39 (2015)
