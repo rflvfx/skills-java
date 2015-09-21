@@ -18,3 +18,4 @@ public record User(int id, String name, String email) {}
 - Fix typo — iteration 54 (2015)
 - Update docs — iteration 56 (2015)
 - Add example — iteration 57 (2015)
+- Add validation — iteration 60 (2015)
