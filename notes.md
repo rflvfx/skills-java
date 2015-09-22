@@ -6,3 +6,4 @@
 - Minor cleanup — iteration 29 (2015)
 - Minor cleanup — iteration 31 (2015)
 - Fix edge case — iteration 32 (2015)
+- Update config — iteration 34 (2015)
