@@ -7,3 +7,4 @@
 - Minor cleanup — iteration 31 (2015)
 - Fix edge case — iteration 32 (2015)
 - Update config — iteration 34 (2015)
+- Add helper — iteration 44 (2015)
