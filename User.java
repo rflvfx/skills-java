@@ -5,3 +5,4 @@ public record User(int id, String name, String email) {}
 - Fix lint warnings — iteration 15 (2015)
 - Refactor module — iteration 16 (2015)
 - Improve naming — iteration 17 (2015)
+- Improve naming — iteration 18 (2015)
