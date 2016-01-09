@@ -22,3 +22,4 @@
 - Add tests — iteration 40 (2016)
 - Add tests — iteration 43 (2016)
 - Add helper — iteration 46 (2016)
+- Improve naming — iteration 51 (2016)
