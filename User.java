@@ -19,3 +19,4 @@ public record User(int id, String name, String email) {}
 - Update docs — iteration 56 (2015)
 - Add example — iteration 57 (2015)
 - Add validation — iteration 60 (2015)
+- Fix edge case — iteration 2 (2016)
