@@ -24,3 +24,4 @@ public class Streams {
 - Add feature — iteration 47 (2015)
 - Update docs — iteration 52 (2015)
 - Fix typo — iteration 55 (2015)
+- Add example — iteration 1 (2016)
