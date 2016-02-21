@@ -23,3 +23,4 @@ public class Main {
 - Update dependencies — iteration 14 (2016)
 - Add tests — iteration 19 (2016)
 - Minor cleanup — iteration 22 (2016)
+- Optimize performance — iteration 27 (2016)
