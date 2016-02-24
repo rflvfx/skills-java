@@ -19,3 +19,4 @@
 - Update config — iteration 35 (2016)
 - Optimize performance — iteration 37 (2016)
 - Improve naming — iteration 39 (2016)
+- Add tests — iteration 40 (2016)
