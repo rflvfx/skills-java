@@ -27,3 +27,4 @@ public class Main {
 - Fix edge case — iteration 30 (2016)
 - Optimize performance — iteration 34 (2016)
 - Improve naming — iteration 36 (2016)
+- Update config — iteration 44 (2016)
