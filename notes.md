@@ -17,3 +17,4 @@
 - Tweak implementation — iteration 31 (2016)
 - Fix typo — iteration 33 (2016)
 - Update config — iteration 35 (2016)
+- Optimize performance — iteration 37 (2016)
