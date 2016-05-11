@@ -23,3 +23,4 @@ public record User(int id, String name, String email) {}
 - Fix lint warnings — iteration 4 (2016)
 - Polish code — iteration 5 (2016)
 - Fix edge case — iteration 10 (2016)
+- Fix typo — iteration 12 (2016)
