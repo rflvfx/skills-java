@@ -30,3 +30,4 @@ public class Main {
 - Update config — iteration 44 (2016)
 - Update config — iteration 48 (2016)
 - Update docs — iteration 49 (2016)
+- Improve error handling — iteration 56 (2016)
