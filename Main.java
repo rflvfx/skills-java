@@ -22,3 +22,4 @@ public class Main {
 - Add feature — iteration 11 (2016)
 - Update dependencies — iteration 14 (2016)
 - Add tests — iteration 19 (2016)
+- Minor cleanup — iteration 22 (2016)
