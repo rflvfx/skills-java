@@ -30,3 +30,4 @@ public class Streams {
 - Fix lint warnings — iteration 21 (2016)
 - Add feature — iteration 25 (2016)
 - Add feature — iteration 26 (2016)
+- Update docs — iteration 28 (2016)
