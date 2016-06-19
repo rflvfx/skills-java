@@ -12,3 +12,4 @@
 - Extend coverage — iteration 53 (2015)
 - Add example — iteration 15 (2016)
 - Extend coverage — iteration 16 (2016)
+- Fix lint warnings — iteration 17 (2016)
