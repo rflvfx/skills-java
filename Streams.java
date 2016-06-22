@@ -36,3 +36,4 @@ public class Streams {
 - Minor cleanup — iteration 47 (2016)
 - Optimize performance — iteration 54 (2016)
 - Optimize performance — iteration 57 (2016)
+- Minor cleanup — iteration 59 (2016)
