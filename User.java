@@ -21,3 +21,4 @@ public record User(int id, String name, String email) {}
 - Add validation — iteration 60 (2015)
 - Fix edge case — iteration 2 (2016)
 - Fix lint warnings — iteration 4 (2016)
+- Polish code — iteration 5 (2016)
