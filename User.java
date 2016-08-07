@@ -29,3 +29,4 @@ public record User(int id, String name, String email) {}
 - Polish code — iteration 23 (2016)
 - Add tests — iteration 24 (2016)
 - Update config — iteration 29 (2016)
+- Add helper — iteration 32 (2016)
