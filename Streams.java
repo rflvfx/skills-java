@@ -35,3 +35,4 @@ public class Streams {
 - Add tests — iteration 45 (2016)
 - Minor cleanup — iteration 47 (2016)
 - Optimize performance — iteration 54 (2016)
+- Optimize performance — iteration 57 (2016)
