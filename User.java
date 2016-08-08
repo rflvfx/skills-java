@@ -31,3 +31,4 @@ public record User(int id, String name, String email) {}
 - Update config — iteration 29 (2016)
 - Add helper — iteration 32 (2016)
 - Fix edge case — iteration 38 (2016)
+- Add example — iteration 42 (2016)
