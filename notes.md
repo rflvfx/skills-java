@@ -10,3 +10,4 @@
 - Add helper — iteration 44 (2015)
 - Minor cleanup — iteration 46 (2015)
 - Extend coverage — iteration 53 (2015)
+- Add example — iteration 15 (2016)
