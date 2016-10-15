@@ -33,3 +33,4 @@ public class Streams {
 - Update docs — iteration 28 (2016)
 - Add example — iteration 41 (2016)
 - Add tests — iteration 45 (2016)
+- Minor cleanup — iteration 47 (2016)
