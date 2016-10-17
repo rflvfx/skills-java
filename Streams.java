@@ -32,3 +32,4 @@ public class Streams {
 - Add feature — iteration 26 (2016)
 - Update docs — iteration 28 (2016)
 - Add example — iteration 41 (2016)
+- Add tests — iteration 45 (2016)
