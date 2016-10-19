@@ -15,3 +15,4 @@
 - Fix lint warnings — iteration 17 (2016)
 - Fix lint warnings — iteration 18 (2016)
 - Tweak implementation — iteration 31 (2016)
+- Fix typo — iteration 33 (2016)
