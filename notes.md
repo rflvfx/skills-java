@@ -11,3 +11,4 @@
 - Minor cleanup — iteration 46 (2015)
 - Extend coverage — iteration 53 (2015)
 - Add example — iteration 15 (2016)
+- Extend coverage — iteration 16 (2016)
