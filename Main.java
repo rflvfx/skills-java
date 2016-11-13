@@ -17,3 +17,4 @@ public class Main {
 - Document usage — iteration 58 (2015)
 - Fix typo — iteration 59 (2015)
 - Fix lint warnings — iteration 7 (2016)
+- Improve naming — iteration 8 (2016)
