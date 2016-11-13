@@ -32,3 +32,4 @@ public record User(int id, String name, String email) {}
 - Add helper — iteration 32 (2016)
 - Fix edge case — iteration 38 (2016)
 - Add example — iteration 42 (2016)
+- Optimize performance — iteration 50 (2016)
