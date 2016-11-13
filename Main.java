@@ -21,3 +21,4 @@ public class Main {
 - Update dependencies — iteration 9 (2016)
 - Add feature — iteration 11 (2016)
 - Update dependencies — iteration 14 (2016)
+- Add tests — iteration 19 (2016)
