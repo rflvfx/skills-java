@@ -34,3 +34,4 @@ public record User(int id, String name, String email) {}
 - Add example — iteration 42 (2016)
 - Optimize performance — iteration 50 (2016)
 - Add feature — iteration 52 (2016)
+- Add helper — iteration 53 (2016)
