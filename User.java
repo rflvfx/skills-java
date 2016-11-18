@@ -25,3 +25,4 @@ public record User(int id, String name, String email) {}
 - Fix edge case — iteration 10 (2016)
 - Fix typo — iteration 12 (2016)
 - Polish code — iteration 13 (2016)
+- Extend coverage — iteration 20 (2016)
