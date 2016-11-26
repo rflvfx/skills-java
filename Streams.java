@@ -27,3 +27,4 @@ public class Streams {
 - Add example — iteration 1 (2016)
 - Add example — iteration 3 (2016)
 - Refactor module — iteration 6 (2016)
+- Fix lint warnings — iteration 21 (2016)
