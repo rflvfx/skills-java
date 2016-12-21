@@ -26,3 +26,4 @@ public class Streams {
 - Fix typo — iteration 55 (2015)
 - Add example — iteration 1 (2016)
 - Add example — iteration 3 (2016)
+- Refactor module — iteration 6 (2016)
