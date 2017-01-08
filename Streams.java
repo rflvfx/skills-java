@@ -39,3 +39,4 @@ public class Streams {
 - Minor cleanup — iteration 59 (2016)
 - Add validation — iteration 60 (2016)
 - Update config — iteration 1 (2017)
+- Tweak implementation — iteration 3 (2017)
