@@ -44,3 +44,4 @@ public record User(int id, String name, String email) {}
 - Optimize performance — iteration 18 (2017)
 - Add validation — iteration 20 (2017)
 - Fix edge case — iteration 32 (2017)
+- Update docs — iteration 39 (2017)
