@@ -45,3 +45,4 @@ public record User(int id, String name, String email) {}
 - Add validation — iteration 20 (2017)
 - Fix edge case — iteration 32 (2017)
 - Update docs — iteration 39 (2017)
+- Fix edge case — iteration 40 (2017)
