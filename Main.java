@@ -31,3 +31,4 @@ public class Main {
 - Update config — iteration 48 (2016)
 - Update docs — iteration 49 (2016)
 - Improve error handling — iteration 56 (2016)
+- Add helper — iteration 2 (2017)
