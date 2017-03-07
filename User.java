@@ -48,3 +48,4 @@ public record User(int id, String name, String email) {}
 - Fix edge case — iteration 40 (2017)
 - Improve naming — iteration 45 (2017)
 - Add validation — iteration 46 (2017)
+- Polish code — iteration 48 (2017)
