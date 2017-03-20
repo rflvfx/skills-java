@@ -47,3 +47,4 @@ public record User(int id, String name, String email) {}
 - Update docs — iteration 39 (2017)
 - Fix edge case — iteration 40 (2017)
 - Improve naming — iteration 45 (2017)
+- Add validation — iteration 46 (2017)
