@@ -27,3 +27,4 @@
 - Update config — iteration 6 (2017)
 - Extend coverage — iteration 10 (2017)
 - Polish code — iteration 12 (2017)
+- Update docs — iteration 13 (2017)
