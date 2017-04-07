@@ -43,3 +43,4 @@ public record User(int id, String name, String email) {}
 - Update config — iteration 15 (2017)
 - Optimize performance — iteration 18 (2017)
 - Add validation — iteration 20 (2017)
+- Fix edge case — iteration 32 (2017)
