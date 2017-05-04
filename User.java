@@ -53,3 +53,4 @@ public record User(int id, String name, String email) {}
 - Add tests — iteration 53 (2017)
 - Optimize performance — iteration 55 (2017)
 - Fix typo — iteration 56 (2017)
+- Add validation — iteration 58 (2017)
