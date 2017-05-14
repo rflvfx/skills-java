@@ -50,3 +50,4 @@ public class Streams {
 - Add example — iteration 34 (2017)
 - Update dependencies — iteration 35 (2017)
 - Minor cleanup — iteration 41 (2017)
+- Add validation — iteration 43 (2017)
