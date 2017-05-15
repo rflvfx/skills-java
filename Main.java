@@ -38,3 +38,4 @@ public class Main {
 - Add example — iteration 22 (2017)
 - Fix lint warnings — iteration 24 (2017)
 - Tweak implementation — iteration 25 (2017)
+- Add tests — iteration 28 (2017)
