@@ -51,3 +51,4 @@ public class Streams {
 - Update dependencies — iteration 35 (2017)
 - Minor cleanup — iteration 41 (2017)
 - Add validation — iteration 43 (2017)
+- Update config — iteration 49 (2017)
