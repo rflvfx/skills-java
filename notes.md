@@ -30,3 +30,4 @@
 - Update docs — iteration 13 (2017)
 - Optimize performance — iteration 16 (2017)
 - Add tests — iteration 19 (2017)
+- Polish code — iteration 23 (2017)
