@@ -50,3 +50,4 @@ public record User(int id, String name, String email) {}
 - Add validation — iteration 46 (2017)
 - Polish code — iteration 48 (2017)
 - Tweak implementation — iteration 50 (2017)
+- Add tests — iteration 53 (2017)
