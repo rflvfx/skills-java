@@ -51,3 +51,4 @@ public record User(int id, String name, String email) {}
 - Polish code — iteration 48 (2017)
 - Tweak implementation — iteration 50 (2017)
 - Add tests — iteration 53 (2017)
+- Optimize performance — iteration 55 (2017)
