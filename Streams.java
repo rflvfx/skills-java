@@ -48,3 +48,4 @@ public class Streams {
 - Fix edge case — iteration 30 (2017)
 - Add feature — iteration 33 (2017)
 - Add example — iteration 34 (2017)
+- Update dependencies — iteration 35 (2017)
