@@ -32,3 +32,4 @@ public class Main {
 - Update docs — iteration 49 (2016)
 - Improve error handling — iteration 56 (2016)
 - Add helper — iteration 2 (2017)
+- Add tests — iteration 5 (2017)
