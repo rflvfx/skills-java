@@ -43,3 +43,4 @@ public class Main {
 - Optimize performance — iteration 47 (2017)
 - Update config — iteration 52 (2017)
 - Add validation — iteration 54 (2017)
+- Fix typo — iteration 57 (2017)
