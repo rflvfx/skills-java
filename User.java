@@ -41,3 +41,4 @@ public record User(int id, String name, String email) {}
 - Add tests — iteration 11 (2017)
 - Add feature — iteration 14 (2017)
 - Update config — iteration 15 (2017)
+- Optimize performance — iteration 18 (2017)
