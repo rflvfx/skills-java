@@ -37,3 +37,4 @@
 - Improve error handling — iteration 38 (2017)
 - Add validation — iteration 42 (2017)
 - Minor cleanup — iteration 51 (2017)
+- Document usage — iteration 60 (2017)
