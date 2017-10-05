@@ -36,3 +36,4 @@ public class Main {
 - Optimize performance — iteration 8 (2017)
 - Refactor module — iteration 21 (2017)
 - Add example — iteration 22 (2017)
+- Fix lint warnings — iteration 24 (2017)
