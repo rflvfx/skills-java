@@ -49,3 +49,4 @@ public record User(int id, String name, String email) {}
 - Improve naming — iteration 45 (2017)
 - Add validation — iteration 46 (2017)
 - Polish code — iteration 48 (2017)
+- Tweak implementation — iteration 50 (2017)
