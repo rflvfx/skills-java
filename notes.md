@@ -32,3 +32,4 @@
 - Add tests — iteration 19 (2017)
 - Polish code — iteration 23 (2017)
 - Add helper — iteration 31 (2017)
+- Update docs — iteration 36 (2017)
