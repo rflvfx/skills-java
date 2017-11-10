@@ -37,3 +37,4 @@ public class Main {
 - Refactor module — iteration 21 (2017)
 - Add example — iteration 22 (2017)
 - Fix lint warnings — iteration 24 (2017)
+- Tweak implementation — iteration 25 (2017)
