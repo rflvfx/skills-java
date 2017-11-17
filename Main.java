@@ -41,3 +41,4 @@ public class Main {
 - Add tests — iteration 28 (2017)
 - Improve naming — iteration 44 (2017)
 - Optimize performance — iteration 47 (2017)
+- Update config — iteration 52 (2017)
