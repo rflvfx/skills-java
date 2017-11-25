@@ -40,3 +40,4 @@ public class Main {
 - Tweak implementation — iteration 25 (2017)
 - Add tests — iteration 28 (2017)
 - Improve naming — iteration 44 (2017)
+- Optimize performance — iteration 47 (2017)
