@@ -47,3 +47,4 @@ public class Streams {
 - Fix typo — iteration 29 (2017)
 - Fix edge case — iteration 30 (2017)
 - Add feature — iteration 33 (2017)
+- Add example — iteration 34 (2017)
