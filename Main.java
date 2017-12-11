@@ -44,3 +44,4 @@ public class Main {
 - Update config — iteration 52 (2017)
 - Add validation — iteration 54 (2017)
 - Fix typo — iteration 57 (2017)
+- Refactor module — iteration 59 (2017)
