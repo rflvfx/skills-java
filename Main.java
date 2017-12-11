@@ -39,3 +39,4 @@ public class Main {
 - Fix lint warnings — iteration 24 (2017)
 - Tweak implementation — iteration 25 (2017)
 - Add tests — iteration 28 (2017)
+- Improve naming — iteration 44 (2017)
