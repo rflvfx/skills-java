@@ -42,3 +42,4 @@ public class Streams {
 - Tweak implementation — iteration 3 (2017)
 - Tweak implementation — iteration 9 (2017)
 - Add feature — iteration 17 (2017)
+- Update docs — iteration 26 (2017)
