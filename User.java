@@ -37,3 +37,4 @@ public record User(int id, String name, String email) {}
 - Add helper — iteration 53 (2016)
 - Document usage — iteration 55 (2016)
 - Fix edge case — iteration 4 (2017)
+- Improve naming — iteration 7 (2017)
