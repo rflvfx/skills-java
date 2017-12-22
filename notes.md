@@ -24,3 +24,4 @@
 - Add helper — iteration 46 (2016)
 - Improve naming — iteration 51 (2016)
 - Add example — iteration 58 (2016)
+- Update config — iteration 6 (2017)
