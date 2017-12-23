@@ -34,3 +34,4 @@ public class Main {
 - Add helper — iteration 2 (2017)
 - Add tests — iteration 5 (2017)
 - Optimize performance — iteration 8 (2017)
+- Refactor module — iteration 21 (2017)
