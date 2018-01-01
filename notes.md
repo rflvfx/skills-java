@@ -38,3 +38,4 @@
 - Add validation — iteration 42 (2017)
 - Minor cleanup — iteration 51 (2017)
 - Document usage — iteration 60 (2017)
+- Fix edge case — iteration 5 (2018)
