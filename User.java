@@ -63,3 +63,4 @@ public record User(int id, String name, String email) {}
 - Add feature — iteration 17 (2018)
 - Tweak implementation — iteration 24 (2018)
 - Tweak implementation — iteration 30 (2018)
+- Refactor module — iteration 31 (2018)
