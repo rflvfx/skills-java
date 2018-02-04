@@ -66,3 +66,4 @@ public class Streams {
 - Add validation — iteration 47 (2018)
 - Update config — iteration 48 (2018)
 - Update config — iteration 49 (2018)
+- Polish code — iteration 50 (2018)
