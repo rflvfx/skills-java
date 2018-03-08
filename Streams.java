@@ -63,3 +63,4 @@ public class Streams {
 - Update dependencies — iteration 37 (2018)
 - Add feature — iteration 41 (2018)
 - Minor cleanup — iteration 44 (2018)
+- Add validation — iteration 47 (2018)
