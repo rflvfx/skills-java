@@ -64,3 +64,4 @@ public record User(int id, String name, String email) {}
 - Tweak implementation — iteration 24 (2018)
 - Tweak implementation — iteration 30 (2018)
 - Refactor module — iteration 31 (2018)
+- Polish code — iteration 34 (2018)
