@@ -55,3 +55,4 @@ public record User(int id, String name, String email) {}
 - Fix typo — iteration 56 (2017)
 - Add validation — iteration 58 (2017)
 - Add feature — iteration 1 (2018)
+- Polish code — iteration 2 (2018)
