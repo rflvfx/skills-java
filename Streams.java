@@ -55,3 +55,4 @@ public class Streams {
 - Refactor module — iteration 4 (2018)
 - Improve naming — iteration 13 (2018)
 - Tweak implementation — iteration 14 (2018)
+- Fix lint warnings — iteration 25 (2018)
