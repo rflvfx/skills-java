@@ -45,3 +45,4 @@ public class Main {
 - Add validation — iteration 54 (2017)
 - Fix typo — iteration 57 (2017)
 - Refactor module — iteration 59 (2017)
+- Refactor module — iteration 7 (2018)
