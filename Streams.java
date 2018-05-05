@@ -59,3 +59,4 @@ public class Streams {
 - Add example — iteration 27 (2018)
 - Improve naming — iteration 28 (2018)
 - Minor cleanup — iteration 29 (2018)
+- Optimize performance — iteration 32 (2018)
