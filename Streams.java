@@ -57,3 +57,4 @@ public class Streams {
 - Tweak implementation — iteration 14 (2018)
 - Fix lint warnings — iteration 25 (2018)
 - Add example — iteration 27 (2018)
+- Improve naming — iteration 28 (2018)
