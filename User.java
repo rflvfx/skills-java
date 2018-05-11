@@ -61,3 +61,4 @@ public record User(int id, String name, String email) {}
 - Fix lint warnings — iteration 10 (2018)
 - Update dependencies — iteration 16 (2018)
 - Add feature — iteration 17 (2018)
+- Tweak implementation — iteration 24 (2018)
