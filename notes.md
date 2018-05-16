@@ -53,3 +53,4 @@
 - Improve error handling — iteration 38 (2018)
 - Extend coverage — iteration 39 (2018)
 - Improve error handling — iteration 40 (2018)
+- Fix lint warnings — iteration 42 (2018)
