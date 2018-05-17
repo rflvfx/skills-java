@@ -57,3 +57,4 @@
 - Document usage — iteration 45 (2018)
 - Polish code — iteration 52 (2018)
 - Polish code — iteration 53 (2018)
+- Improve error handling — iteration 54 (2018)
