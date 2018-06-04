@@ -50,3 +50,4 @@
 - Optimize performance — iteration 33 (2018)
 - Improve error handling — iteration 35 (2018)
 - Fix typo — iteration 36 (2018)
+- Improve error handling — iteration 38 (2018)
