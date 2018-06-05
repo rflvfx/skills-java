@@ -55,3 +55,4 @@
 - Improve error handling — iteration 40 (2018)
 - Fix lint warnings — iteration 42 (2018)
 - Document usage — iteration 45 (2018)
+- Polish code — iteration 52 (2018)
