@@ -42,3 +42,4 @@
 - Add helper — iteration 8 (2018)
 - Add validation — iteration 9 (2018)
 - Add validation — iteration 11 (2018)
+- Minor cleanup — iteration 12 (2018)
