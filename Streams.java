@@ -54,3 +54,4 @@ public class Streams {
 - Update config — iteration 49 (2017)
 - Refactor module — iteration 4 (2018)
 - Improve naming — iteration 13 (2018)
+- Tweak implementation — iteration 14 (2018)
