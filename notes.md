@@ -48,3 +48,4 @@
 - Refactor module — iteration 22 (2018)
 - Document usage — iteration 23 (2018)
 - Optimize performance — iteration 33 (2018)
+- Improve error handling — iteration 35 (2018)
