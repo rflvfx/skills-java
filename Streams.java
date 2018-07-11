@@ -53,3 +53,4 @@ public class Streams {
 - Add validation — iteration 43 (2017)
 - Update config — iteration 49 (2017)
 - Refactor module — iteration 4 (2018)
+- Improve naming — iteration 13 (2018)
