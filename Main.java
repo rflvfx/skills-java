@@ -48,3 +48,4 @@ public class Main {
 - Refactor module — iteration 7 (2018)
 - Fix edge case — iteration 15 (2018)
 - Add example — iteration 18 (2018)
+- Polish code — iteration 21 (2018)
