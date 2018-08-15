@@ -52,3 +52,4 @@ public class Streams {
 - Minor cleanup — iteration 41 (2017)
 - Add validation — iteration 43 (2017)
 - Update config — iteration 49 (2017)
+- Refactor module — iteration 4 (2018)
