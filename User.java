@@ -62,3 +62,4 @@ public record User(int id, String name, String email) {}
 - Update dependencies — iteration 16 (2018)
 - Add feature — iteration 17 (2018)
 - Tweak implementation — iteration 24 (2018)
+- Tweak implementation — iteration 30 (2018)
