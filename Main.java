@@ -47,3 +47,4 @@ public class Main {
 - Refactor module — iteration 59 (2017)
 - Refactor module — iteration 7 (2018)
 - Fix edge case — iteration 15 (2018)
+- Add example — iteration 18 (2018)
