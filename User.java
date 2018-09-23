@@ -58,3 +58,4 @@ public record User(int id, String name, String email) {}
 - Polish code — iteration 2 (2018)
 - Add helper — iteration 3 (2018)
 - Add tests — iteration 6 (2018)
+- Fix lint warnings — iteration 10 (2018)
