@@ -68,3 +68,4 @@ public record User(int id, String name, String email) {}
 - Document usage — iteration 46 (2018)
 - Add example — iteration 51 (2018)
 - Improve error handling — iteration 58 (2018)
+- Add feature — iteration 60 (2018)
