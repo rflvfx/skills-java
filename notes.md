@@ -46,3 +46,4 @@
 - Add tests — iteration 19 (2018)
 - Add example — iteration 20 (2018)
 - Refactor module — iteration 22 (2018)
+- Document usage — iteration 23 (2018)
