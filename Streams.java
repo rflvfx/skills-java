@@ -67,3 +67,4 @@ public class Streams {
 - Update config — iteration 48 (2018)
 - Update config — iteration 49 (2018)
 - Polish code — iteration 50 (2018)
+- Add tests — iteration 56 (2018)
