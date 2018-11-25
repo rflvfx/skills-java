@@ -59,3 +59,4 @@ public record User(int id, String name, String email) {}
 - Add helper — iteration 3 (2018)
 - Add tests — iteration 6 (2018)
 - Fix lint warnings — iteration 10 (2018)
+- Update dependencies — iteration 16 (2018)
