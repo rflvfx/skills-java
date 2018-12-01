@@ -61,3 +61,4 @@ public class Streams {
 - Minor cleanup — iteration 29 (2018)
 - Optimize performance — iteration 32 (2018)
 - Update dependencies — iteration 37 (2018)
+- Add feature — iteration 41 (2018)
