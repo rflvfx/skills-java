@@ -56,3 +56,4 @@ public record User(int id, String name, String email) {}
 - Add validation — iteration 58 (2017)
 - Add feature — iteration 1 (2018)
 - Polish code — iteration 2 (2018)
+- Add helper — iteration 3 (2018)
