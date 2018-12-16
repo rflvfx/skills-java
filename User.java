@@ -67,3 +67,4 @@ public record User(int id, String name, String email) {}
 - Polish code — iteration 34 (2018)
 - Document usage — iteration 46 (2018)
 - Add example — iteration 51 (2018)
+- Improve error handling — iteration 58 (2018)
