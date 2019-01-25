@@ -71,3 +71,4 @@ public class Streams {
 - Tweak implementation — iteration 2 (2019)
 - Improve naming — iteration 7 (2019)
 - Improve naming — iteration 10 (2019)
+- Add helper — iteration 14 (2019)
