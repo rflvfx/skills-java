@@ -67,3 +67,4 @@ public class Main {
 - Update config — iteration 41 (2019)
 - Improve naming — iteration 44 (2019)
 - Add feature — iteration 47 (2019)
+- Improve error handling — iteration 49 (2019)
