@@ -65,3 +65,4 @@ public class Main {
 - Polish code — iteration 34 (2019)
 - Update config — iteration 37 (2019)
 - Update config — iteration 41 (2019)
+- Improve naming — iteration 44 (2019)
