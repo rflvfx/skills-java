@@ -73,3 +73,4 @@ public record User(int id, String name, String email) {}
 - Fix lint warnings — iteration 6 (2019)
 - Fix edge case — iteration 8 (2019)
 - Refactor module — iteration 13 (2019)
+- Update docs — iteration 17 (2019)
