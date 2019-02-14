@@ -63,3 +63,4 @@ public class Main {
 - Refactor module — iteration 31 (2019)
 - Fix edge case — iteration 33 (2019)
 - Polish code — iteration 34 (2019)
+- Update config — iteration 37 (2019)
