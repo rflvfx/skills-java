@@ -75,3 +75,4 @@ public record User(int id, String name, String email) {}
 - Refactor module — iteration 13 (2019)
 - Update docs — iteration 17 (2019)
 - Add example — iteration 20 (2019)
+- Refactor module — iteration 22 (2019)
