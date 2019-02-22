@@ -62,3 +62,4 @@
 - Update config — iteration 3 (2019)
 - Fix edge case — iteration 5 (2019)
 - Polish code — iteration 18 (2019)
+- Update docs — iteration 27 (2019)
