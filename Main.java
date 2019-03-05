@@ -59,3 +59,4 @@ public class Main {
 - Add example — iteration 12 (2019)
 - Improve naming — iteration 19 (2019)
 - Fix typo — iteration 28 (2019)
+- Add validation — iteration 30 (2019)
