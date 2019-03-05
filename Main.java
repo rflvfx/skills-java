@@ -55,3 +55,4 @@ public class Main {
 - Add feature — iteration 57 (2018)
 - Fix edge case — iteration 59 (2018)
 - Document usage — iteration 9 (2019)
+- Improve error handling — iteration 11 (2019)
