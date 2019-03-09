@@ -67,3 +67,4 @@
 - Improve naming — iteration 32 (2019)
 - Update dependencies — iteration 38 (2019)
 - Add validation — iteration 40 (2019)
+- Fix lint warnings — iteration 42 (2019)
