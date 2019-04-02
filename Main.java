@@ -68,3 +68,4 @@ public class Main {
 - Improve naming — iteration 44 (2019)
 - Add feature — iteration 47 (2019)
 - Improve error handling — iteration 49 (2019)
+- Fix typo — iteration 51 (2019)
