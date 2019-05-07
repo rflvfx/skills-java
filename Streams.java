@@ -78,3 +78,4 @@ public class Streams {
 - Add helper — iteration 23 (2019)
 - Update dependencies — iteration 26 (2019)
 - Improve error handling — iteration 35 (2019)
+- Fix edge case — iteration 36 (2019)
