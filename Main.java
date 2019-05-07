@@ -58,3 +58,4 @@ public class Main {
 - Improve error handling — iteration 11 (2019)
 - Add example — iteration 12 (2019)
 - Improve naming — iteration 19 (2019)
+- Fix typo — iteration 28 (2019)
