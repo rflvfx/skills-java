@@ -77,3 +77,4 @@ public class Streams {
 - Add tests — iteration 21 (2019)
 - Add helper — iteration 23 (2019)
 - Update dependencies — iteration 26 (2019)
+- Improve error handling — iteration 35 (2019)
