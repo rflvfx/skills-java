@@ -70,3 +70,4 @@ public class Streams {
 - Add tests — iteration 56 (2018)
 - Tweak implementation — iteration 2 (2019)
 - Improve naming — iteration 7 (2019)
+- Improve naming — iteration 10 (2019)
