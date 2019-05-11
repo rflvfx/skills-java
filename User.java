@@ -69,3 +69,4 @@ public record User(int id, String name, String email) {}
 - Add example — iteration 51 (2018)
 - Improve error handling — iteration 58 (2018)
 - Add feature — iteration 60 (2018)
+- Update config — iteration 4 (2019)
