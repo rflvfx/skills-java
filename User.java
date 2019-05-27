@@ -70,3 +70,4 @@ public record User(int id, String name, String email) {}
 - Improve error handling — iteration 58 (2018)
 - Add feature — iteration 60 (2018)
 - Update config — iteration 4 (2019)
+- Fix lint warnings — iteration 6 (2019)
