@@ -72,3 +72,4 @@ public record User(int id, String name, String email) {}
 - Update config — iteration 4 (2019)
 - Fix lint warnings — iteration 6 (2019)
 - Fix edge case — iteration 8 (2019)
+- Refactor module — iteration 13 (2019)
