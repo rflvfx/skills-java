@@ -72,3 +72,4 @@ public class Streams {
 - Improve naming — iteration 7 (2019)
 - Improve naming — iteration 10 (2019)
 - Add helper — iteration 14 (2019)
+- Add tests — iteration 15 (2019)
