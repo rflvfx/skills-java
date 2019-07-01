@@ -83,3 +83,4 @@ public class Streams {
 - Add validation — iteration 45 (2019)
 - Document usage — iteration 46 (2019)
 - Fix typo — iteration 50 (2019)
+- Update config — iteration 53 (2019)
