@@ -76,3 +76,4 @@ public record User(int id, String name, String email) {}
 - Update docs — iteration 17 (2019)
 - Add example — iteration 20 (2019)
 - Refactor module — iteration 22 (2019)
+- Fix edge case — iteration 24 (2019)
