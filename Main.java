@@ -54,3 +54,4 @@ public class Main {
 - Update docs — iteration 55 (2018)
 - Add feature — iteration 57 (2018)
 - Fix edge case — iteration 59 (2018)
+- Document usage — iteration 9 (2019)
