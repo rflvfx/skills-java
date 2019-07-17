@@ -60,3 +60,4 @@ public class Main {
 - Improve naming — iteration 19 (2019)
 - Fix typo — iteration 28 (2019)
 - Add validation — iteration 30 (2019)
+- Refactor module — iteration 31 (2019)
