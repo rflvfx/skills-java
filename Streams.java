@@ -79,3 +79,4 @@ public class Streams {
 - Update dependencies — iteration 26 (2019)
 - Improve error handling — iteration 35 (2019)
 - Fix edge case — iteration 36 (2019)
+- Add feature — iteration 43 (2019)
