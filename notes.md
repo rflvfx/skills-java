@@ -60,3 +60,4 @@
 - Improve error handling — iteration 54 (2018)
 - Minor cleanup — iteration 1 (2019)
 - Update config — iteration 3 (2019)
+- Fix edge case — iteration 5 (2019)
