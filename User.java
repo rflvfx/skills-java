@@ -78,3 +78,4 @@ public record User(int id, String name, String email) {}
 - Refactor module — iteration 22 (2019)
 - Fix edge case — iteration 24 (2019)
 - Update config — iteration 25 (2019)
+- Add tests — iteration 39 (2019)
