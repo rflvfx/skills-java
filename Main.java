@@ -62,3 +62,4 @@ public class Main {
 - Add validation — iteration 30 (2019)
 - Refactor module — iteration 31 (2019)
 - Fix edge case — iteration 33 (2019)
+- Polish code — iteration 34 (2019)
