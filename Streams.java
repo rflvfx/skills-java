@@ -84,3 +84,4 @@ public class Streams {
 - Document usage — iteration 46 (2019)
 - Fix typo — iteration 50 (2019)
 - Update config — iteration 53 (2019)
+- Add example — iteration 55 (2019)
