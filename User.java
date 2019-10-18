@@ -71,3 +71,4 @@ public record User(int id, String name, String email) {}
 - Add feature — iteration 60 (2018)
 - Update config — iteration 4 (2019)
 - Fix lint warnings — iteration 6 (2019)
+- Fix edge case — iteration 8 (2019)
