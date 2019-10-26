@@ -65,3 +65,4 @@
 - Update docs — iteration 27 (2019)
 - Fix typo — iteration 29 (2019)
 - Improve naming — iteration 32 (2019)
+- Update dependencies — iteration 38 (2019)
