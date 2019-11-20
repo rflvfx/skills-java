@@ -57,3 +57,4 @@ public class Main {
 - Document usage — iteration 9 (2019)
 - Improve error handling — iteration 11 (2019)
 - Add example — iteration 12 (2019)
+- Improve naming — iteration 19 (2019)
