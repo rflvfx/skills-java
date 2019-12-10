@@ -82,3 +82,4 @@ public class Streams {
 - Add feature — iteration 43 (2019)
 - Add validation — iteration 45 (2019)
 - Document usage — iteration 46 (2019)
+- Fix typo — iteration 50 (2019)
