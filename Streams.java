@@ -85,3 +85,4 @@ public class Streams {
 - Fix typo — iteration 50 (2019)
 - Update config — iteration 53 (2019)
 - Add example — iteration 55 (2019)
+- Optimize performance — iteration 3 (2020)
