@@ -85,3 +85,4 @@ public record User(int id, String name, String email) {}
 - Add feature — iteration 9 (2020)
 - Add example — iteration 13 (2020)
 - Refactor module — iteration 14 (2020)
+- Improve naming — iteration 16 (2020)
