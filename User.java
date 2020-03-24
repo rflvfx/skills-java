@@ -89,3 +89,4 @@ public record User(int id, String name, String email) {}
 - Update config — iteration 22 (2020)
 - Add helper — iteration 26 (2020)
 - Update dependencies — iteration 38 (2020)
+- Fix typo — iteration 44 (2020)
