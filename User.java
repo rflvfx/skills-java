@@ -82,3 +82,4 @@ public record User(int id, String name, String email) {}
 - Minor cleanup — iteration 48 (2019)
 - Refactor module — iteration 4 (2020)
 - Update dependencies — iteration 8 (2020)
+- Add feature — iteration 9 (2020)
