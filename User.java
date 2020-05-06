@@ -80,3 +80,4 @@ public record User(int id, String name, String email) {}
 - Update config — iteration 25 (2019)
 - Add tests — iteration 39 (2019)
 - Minor cleanup — iteration 48 (2019)
+- Refactor module — iteration 4 (2020)
