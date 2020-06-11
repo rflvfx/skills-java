@@ -76,3 +76,4 @@ public class Main {
 - Add feature — iteration 12 (2020)
 - Add feature — iteration 15 (2020)
 - Add tests — iteration 18 (2020)
+- Update dependencies — iteration 25 (2020)
