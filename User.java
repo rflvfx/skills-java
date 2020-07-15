@@ -91,3 +91,4 @@ public record User(int id, String name, String email) {}
 - Update dependencies — iteration 38 (2020)
 - Fix typo — iteration 44 (2020)
 - Improve error handling — iteration 45 (2020)
+- Minor cleanup — iteration 49 (2020)
