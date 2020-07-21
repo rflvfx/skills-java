@@ -83,3 +83,4 @@
 - Add helper — iteration 27 (2020)
 - Refactor module — iteration 34 (2020)
 - Update dependencies — iteration 37 (2020)
+- Fix typo — iteration 43 (2020)
