@@ -75,3 +75,4 @@
 - Add validation — iteration 1 (2020)
 - Add example — iteration 2 (2020)
 - Add validation — iteration 10 (2020)
+- Refactor module — iteration 11 (2020)
