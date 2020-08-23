@@ -82,3 +82,4 @@
 - Fix lint warnings — iteration 24 (2020)
 - Add helper — iteration 27 (2020)
 - Refactor module — iteration 34 (2020)
+- Update dependencies — iteration 37 (2020)
