@@ -87,3 +87,4 @@ public record User(int id, String name, String email) {}
 - Refactor module — iteration 14 (2020)
 - Improve naming — iteration 16 (2020)
 - Update config — iteration 22 (2020)
+- Add helper — iteration 26 (2020)
