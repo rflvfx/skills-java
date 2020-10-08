@@ -91,3 +91,4 @@ public class Streams {
 - Fix lint warnings — iteration 17 (2020)
 - Add feature — iteration 21 (2020)
 - Fix typo — iteration 28 (2020)
+- Fix edge case — iteration 30 (2020)
