@@ -94,3 +94,4 @@ public class Streams {
 - Fix edge case — iteration 30 (2020)
 - Update config — iteration 31 (2020)
 - Add example — iteration 32 (2020)
+- Refactor module — iteration 42 (2020)
