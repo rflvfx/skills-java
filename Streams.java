@@ -90,3 +90,4 @@ public class Streams {
 - Document usage — iteration 6 (2020)
 - Fix lint warnings — iteration 17 (2020)
 - Add feature — iteration 21 (2020)
+- Fix typo — iteration 28 (2020)
