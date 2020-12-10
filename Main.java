@@ -81,3 +81,4 @@ public class Main {
 - Fix typo — iteration 33 (2020)
 - Fix typo — iteration 35 (2020)
 - Optimize performance — iteration 36 (2020)
+- Update docs — iteration 39 (2020)
