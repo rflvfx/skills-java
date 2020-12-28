@@ -89,3 +89,4 @@ public class Streams {
 - Refactor module — iteration 5 (2020)
 - Document usage — iteration 6 (2020)
 - Fix lint warnings — iteration 17 (2020)
+- Add feature — iteration 21 (2020)
