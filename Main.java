@@ -99,3 +99,4 @@ public class Main {
 - Improve error handling — iteration 44 (2021)
 - Refactor module — iteration 46 (2021)
 - Improve error handling — iteration 47 (2021)
+- Fix edge case — iteration 49 (2021)
