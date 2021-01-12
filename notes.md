@@ -105,3 +105,4 @@
 - Add validation — iteration 37 (2021)
 - Optimize performance — iteration 39 (2021)
 - Fix edge case — iteration 42 (2021)
+- Update docs — iteration 50 (2021)
