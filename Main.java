@@ -95,3 +95,4 @@ public class Main {
 - Update config — iteration 21 (2021)
 - Fix typo — iteration 30 (2021)
 - Improve error handling — iteration 40 (2021)
+- Document usage — iteration 41 (2021)
