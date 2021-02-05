@@ -103,3 +103,4 @@
 - Fix typo — iteration 34 (2021)
 - Tweak implementation — iteration 35 (2021)
 - Add validation — iteration 37 (2021)
+- Optimize performance — iteration 39 (2021)
