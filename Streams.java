@@ -110,3 +110,4 @@ public class Streams {
 - Update docs — iteration 45 (2021)
 - Tweak implementation — iteration 48 (2021)
 - Fix typo — iteration 55 (2021)
+- Optimize performance — iteration 56 (2021)
