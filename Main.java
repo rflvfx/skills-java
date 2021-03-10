@@ -96,3 +96,4 @@ public class Main {
 - Fix typo — iteration 30 (2021)
 - Improve error handling — iteration 40 (2021)
 - Document usage — iteration 41 (2021)
+- Improve error handling — iteration 44 (2021)
