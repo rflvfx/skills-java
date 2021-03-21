@@ -100,3 +100,4 @@ public record User(int id, String name, String email) {}
 - Extend coverage — iteration 15 (2021)
 - Polish code — iteration 16 (2021)
 - Polish code — iteration 22 (2021)
+- Add feature — iteration 33 (2021)
