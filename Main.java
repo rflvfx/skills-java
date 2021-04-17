@@ -86,3 +86,4 @@ public class Main {
 - Tweak implementation — iteration 41 (2020)
 - Update dependencies — iteration 53 (2020)
 - Document usage — iteration 54 (2020)
+- Add validation — iteration 2 (2021)
