@@ -106,3 +106,4 @@ public record User(int id, String name, String email) {}
 - Fix typo — iteration 51 (2021)
 - Extend coverage — iteration 52 (2021)
 - Add feature — iteration 57 (2021)
+- Extend coverage — iteration 58 (2021)
