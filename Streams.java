@@ -107,3 +107,4 @@ public class Streams {
 - Add tests — iteration 31 (2021)
 - Extend coverage — iteration 32 (2021)
 - Update docs — iteration 36 (2021)
+- Update docs — iteration 45 (2021)
