@@ -98,3 +98,4 @@ public class Streams {
 - Fix edge case — iteration 46 (2020)
 - Improve naming — iteration 50 (2020)
 - Document usage — iteration 6 (2021)
+- Improve error handling — iteration 8 (2021)
