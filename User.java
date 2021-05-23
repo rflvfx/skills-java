@@ -96,3 +96,4 @@ public record User(int id, String name, String email) {}
 - Improve naming — iteration 57 (2020)
 - Fix typo — iteration 59 (2020)
 - Extend coverage — iteration 4 (2021)
+- Minor cleanup — iteration 5 (2021)
