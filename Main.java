@@ -87,3 +87,4 @@ public class Main {
 - Update dependencies — iteration 53 (2020)
 - Document usage — iteration 54 (2020)
 - Add validation — iteration 2 (2021)
+- Add tests — iteration 3 (2021)
