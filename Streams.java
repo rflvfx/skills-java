@@ -109,3 +109,4 @@ public class Streams {
 - Update docs — iteration 36 (2021)
 - Update docs — iteration 45 (2021)
 - Tweak implementation — iteration 48 (2021)
+- Fix typo — iteration 55 (2021)
