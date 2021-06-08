@@ -97,3 +97,4 @@ public class Streams {
 - Refactor module — iteration 42 (2020)
 - Fix edge case — iteration 46 (2020)
 - Improve naming — iteration 50 (2020)
+- Document usage — iteration 6 (2021)
