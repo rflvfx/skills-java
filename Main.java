@@ -98,3 +98,4 @@ public class Main {
 - Document usage — iteration 41 (2021)
 - Improve error handling — iteration 44 (2021)
 - Refactor module — iteration 46 (2021)
+- Improve error handling — iteration 47 (2021)
