@@ -104,3 +104,4 @@ public record User(int id, String name, String email) {}
 - Update config — iteration 38 (2021)
 - Add helper — iteration 43 (2021)
 - Fix typo — iteration 51 (2021)
+- Extend coverage — iteration 52 (2021)
