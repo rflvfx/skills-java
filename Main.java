@@ -91,3 +91,4 @@ public class Main {
 - Improve error handling — iteration 10 (2021)
 - Update docs — iteration 11 (2021)
 - Extend coverage — iteration 14 (2021)
+- Improve error handling — iteration 20 (2021)
