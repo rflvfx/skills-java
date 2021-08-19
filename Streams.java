@@ -104,3 +104,4 @@ public class Streams {
 - Improve naming — iteration 24 (2021)
 - Improve naming — iteration 25 (2021)
 - Fix typo — iteration 27 (2021)
+- Add tests — iteration 31 (2021)
