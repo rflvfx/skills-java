@@ -102,3 +102,4 @@ public class Streams {
 - Fix edge case — iteration 13 (2021)
 - Fix typo — iteration 23 (2021)
 - Improve naming — iteration 24 (2021)
+- Improve naming — iteration 25 (2021)
