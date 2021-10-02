@@ -97,3 +97,4 @@
 - Add validation — iteration 17 (2021)
 - Improve error handling — iteration 18 (2021)
 - Fix lint warnings — iteration 19 (2021)
+- Improve naming — iteration 26 (2021)
