@@ -99,3 +99,4 @@
 - Fix lint warnings — iteration 19 (2021)
 - Improve naming — iteration 26 (2021)
 - Improve naming — iteration 28 (2021)
+- Extend coverage — iteration 29 (2021)
