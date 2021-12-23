@@ -98,3 +98,4 @@ public record User(int id, String name, String email) {}
 - Extend coverage — iteration 4 (2021)
 - Minor cleanup — iteration 5 (2021)
 - Extend coverage — iteration 15 (2021)
+- Polish code — iteration 16 (2021)
