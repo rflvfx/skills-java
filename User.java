@@ -114,3 +114,4 @@ public record User(int id, String name, String email) {}
 - Add feature — iteration 25 (2022)
 - Update docs — iteration 29 (2022)
 - Refactor module — iteration 33 (2022)
+- Fix edge case — iteration 36 (2022)
