@@ -110,3 +110,4 @@ public record User(int id, String name, String email) {}
 - Fix lint warnings — iteration 7 (2022)
 - Document usage — iteration 9 (2022)
 - Tweak implementation — iteration 17 (2022)
+- Refactor module — iteration 21 (2022)
