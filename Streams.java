@@ -114,3 +114,4 @@ public class Streams {
 - Document usage — iteration 1 (2022)
 - Fix lint warnings — iteration 2 (2022)
 - Fix edge case — iteration 3 (2022)
+- Improve naming — iteration 4 (2022)
