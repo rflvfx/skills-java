@@ -111,3 +111,4 @@ public class Streams {
 - Tweak implementation — iteration 48 (2021)
 - Fix typo — iteration 55 (2021)
 - Optimize performance — iteration 56 (2021)
+- Document usage — iteration 1 (2022)
