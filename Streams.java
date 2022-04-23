@@ -113,3 +113,4 @@ public class Streams {
 - Optimize performance — iteration 56 (2021)
 - Document usage — iteration 1 (2022)
 - Fix lint warnings — iteration 2 (2022)
+- Fix edge case — iteration 3 (2022)
