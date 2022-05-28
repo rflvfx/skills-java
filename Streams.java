@@ -119,3 +119,4 @@ public class Streams {
 - Fix lint warnings — iteration 12 (2022)
 - Add feature — iteration 18 (2022)
 - Add helper — iteration 20 (2022)
+- Add feature — iteration 26 (2022)
