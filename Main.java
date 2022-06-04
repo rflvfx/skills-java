@@ -105,3 +105,4 @@ public class Main {
 - Improve error handling — iteration 5 (2022)
 - Add feature — iteration 10 (2022)
 - Polish code — iteration 11 (2022)
+- Add validation — iteration 14 (2022)
