@@ -108,3 +108,4 @@ public record User(int id, String name, String email) {}
 - Add feature — iteration 57 (2021)
 - Extend coverage — iteration 58 (2021)
 - Fix lint warnings — iteration 7 (2022)
+- Document usage — iteration 9 (2022)
