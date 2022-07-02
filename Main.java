@@ -114,3 +114,4 @@ public class Main {
 - Update dependencies — iteration 32 (2022)
 - Add tests — iteration 35 (2022)
 - Fix typo — iteration 39 (2022)
+- Improve error handling — iteration 43 (2022)
