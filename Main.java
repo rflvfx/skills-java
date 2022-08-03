@@ -102,3 +102,4 @@ public class Main {
 - Fix edge case — iteration 49 (2021)
 - Polish code — iteration 53 (2021)
 - Fix typo — iteration 60 (2021)
+- Improve error handling — iteration 5 (2022)
