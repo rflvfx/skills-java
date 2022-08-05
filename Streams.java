@@ -122,3 +122,4 @@ public class Streams {
 - Add feature — iteration 26 (2022)
 - Add tests — iteration 37 (2022)
 - Add validation — iteration 40 (2022)
+- Fix edge case — iteration 41 (2022)
