@@ -120,3 +120,4 @@ public class Streams {
 - Add feature — iteration 18 (2022)
 - Add helper — iteration 20 (2022)
 - Add feature — iteration 26 (2022)
+- Add tests — iteration 37 (2022)
