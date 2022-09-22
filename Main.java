@@ -107,3 +107,4 @@ public class Main {
 - Polish code — iteration 11 (2022)
 - Add validation — iteration 14 (2022)
 - Tweak implementation — iteration 15 (2022)
+- Document usage — iteration 19 (2022)
