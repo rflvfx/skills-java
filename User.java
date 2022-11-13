@@ -111,3 +111,4 @@ public record User(int id, String name, String email) {}
 - Document usage — iteration 9 (2022)
 - Tweak implementation — iteration 17 (2022)
 - Refactor module — iteration 21 (2022)
+- Add feature — iteration 25 (2022)
