@@ -108,3 +108,4 @@
 - Update docs — iteration 50 (2021)
 - Polish code — iteration 54 (2021)
 - Add example — iteration 59 (2021)
+- Refactor module — iteration 8 (2022)
