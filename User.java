@@ -122,3 +122,4 @@ public record User(int id, String name, String email) {}
 - Minor cleanup — iteration 59 (2022)
 - Add helper — iteration 3 (2023)
 - Add example — iteration 5 (2023)
+- Update docs — iteration 6 (2023)
