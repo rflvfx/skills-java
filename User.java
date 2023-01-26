@@ -130,3 +130,4 @@ public record User(int id, String name, String email) {}
 - Add example — iteration 20 (2023)
 - Fix lint warnings — iteration 22 (2023)
 - Add feature — iteration 28 (2023)
+- Improve naming — iteration 29 (2023)
