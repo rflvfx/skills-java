@@ -127,3 +127,4 @@ public class Main {
 - Extend coverage — iteration 24 (2023)
 - Extend coverage — iteration 25 (2023)
 - Fix typo — iteration 26 (2023)
+- Add helper — iteration 36 (2023)
