@@ -137,3 +137,4 @@
 - Improve naming — iteration 35 (2023)
 - Fix typo — iteration 42 (2023)
 - Add example — iteration 43 (2023)
+- Improve error handling — iteration 46 (2023)
