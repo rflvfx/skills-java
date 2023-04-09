@@ -130,3 +130,4 @@ public class Streams {
 - Fix edge case — iteration 13 (2023)
 - Improve naming — iteration 33 (2023)
 - Add feature — iteration 38 (2023)
+- Improve error handling — iteration 44 (2023)
