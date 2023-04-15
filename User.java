@@ -120,3 +120,4 @@ public record User(int id, String name, String email) {}
 - Refactor module — iteration 55 (2022)
 - Tweak implementation — iteration 57 (2022)
 - Minor cleanup — iteration 59 (2022)
+- Add helper — iteration 3 (2023)
