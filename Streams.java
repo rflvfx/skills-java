@@ -125,3 +125,4 @@ public class Streams {
 - Fix edge case — iteration 41 (2022)
 - Fix edge case — iteration 42 (2022)
 - Tweak implementation — iteration 58 (2022)
+- Minor cleanup — iteration 4 (2023)
