@@ -131,3 +131,4 @@
 - Extend coverage — iteration 21 (2023)
 - Add example — iteration 23 (2023)
 - Tweak implementation — iteration 27 (2023)
+- Update config — iteration 31 (2023)
