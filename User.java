@@ -132,3 +132,4 @@ public record User(int id, String name, String email) {}
 - Add feature — iteration 28 (2023)
 - Improve naming — iteration 29 (2023)
 - Fix typo — iteration 30 (2023)
+- Document usage — iteration 37 (2023)
