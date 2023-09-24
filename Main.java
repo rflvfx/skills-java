@@ -123,3 +123,4 @@ public class Main {
 - Add tests — iteration 56 (2022)
 - Fix lint warnings — iteration 60 (2022)
 - Minor cleanup — iteration 1 (2023)
+- Add example — iteration 2 (2023)
