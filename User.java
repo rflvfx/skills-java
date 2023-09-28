@@ -128,3 +128,4 @@ public record User(int id, String name, String email) {}
 - Add tests — iteration 14 (2023)
 - Minor cleanup — iteration 19 (2023)
 - Add example — iteration 20 (2023)
+- Fix lint warnings — iteration 22 (2023)
