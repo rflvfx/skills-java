@@ -130,3 +130,4 @@
 - Add helper — iteration 18 (2023)
 - Extend coverage — iteration 21 (2023)
 - Add example — iteration 23 (2023)
+- Tweak implementation — iteration 27 (2023)
