@@ -126,3 +126,4 @@
 - Add example — iteration 12 (2023)
 - Add tests — iteration 15 (2023)
 - Update dependencies — iteration 16 (2023)
+- Improve naming — iteration 17 (2023)
