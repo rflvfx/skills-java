@@ -126,3 +126,4 @@ public class Main {
 - Add example — iteration 2 (2023)
 - Extend coverage — iteration 24 (2023)
 - Extend coverage — iteration 25 (2023)
+- Fix typo — iteration 26 (2023)
