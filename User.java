@@ -124,3 +124,4 @@ public record User(int id, String name, String email) {}
 - Add example — iteration 5 (2023)
 - Update docs — iteration 6 (2023)
 - Minor cleanup — iteration 7 (2023)
+- Add validation — iteration 8 (2023)
