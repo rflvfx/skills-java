@@ -132,3 +132,4 @@ public class Main {
 - Document usage — iteration 40 (2023)
 - Tweak implementation — iteration 41 (2023)
 - Add example — iteration 50 (2023)
+- Improve error handling — iteration 51 (2023)
