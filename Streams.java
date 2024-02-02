@@ -142,3 +142,4 @@ public class Streams {
 - Refactor module — iteration 17 (2024)
 - Update docs — iteration 18 (2024)
 - Fix typo — iteration 23 (2024)
+- Improve error handling — iteration 26 (2024)
