@@ -150,3 +150,4 @@ public class Streams {
 - Document usage — iteration 40 (2024)
 - Fix edge case — iteration 41 (2024)
 - Extend coverage — iteration 43 (2024)
+- Fix lint warnings — iteration 44 (2024)
