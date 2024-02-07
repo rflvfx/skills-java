@@ -138,3 +138,4 @@ public class Streams {
 - Tweak implementation — iteration 2 (2024)
 - Fix typo — iteration 4 (2024)
 - Tweak implementation — iteration 15 (2024)
+- Add helper — iteration 16 (2024)
