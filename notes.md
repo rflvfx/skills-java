@@ -149,3 +149,4 @@
 - Improve error handling — iteration 13 (2024)
 - Polish code — iteration 20 (2024)
 - Add feature — iteration 22 (2024)
+- Update docs — iteration 24 (2024)
