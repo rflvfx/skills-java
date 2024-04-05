@@ -150,3 +150,4 @@
 - Polish code — iteration 20 (2024)
 - Add feature — iteration 22 (2024)
 - Update docs — iteration 24 (2024)
+- Update docs — iteration 31 (2024)
