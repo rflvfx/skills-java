@@ -139,3 +139,4 @@ public class Streams {
 - Fix typo — iteration 4 (2024)
 - Tweak implementation — iteration 15 (2024)
 - Add helper — iteration 16 (2024)
+- Refactor module — iteration 17 (2024)
