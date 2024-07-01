@@ -144,3 +144,4 @@ public record User(int id, String name, String email) {}
 - Fix typo — iteration 29 (2024)
 - Fix typo — iteration 34 (2024)
 - Add validation — iteration 35 (2024)
+- Add helper — iteration 45 (2024)
