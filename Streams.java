@@ -151,3 +151,4 @@ public class Streams {
 - Fix edge case — iteration 41 (2024)
 - Extend coverage — iteration 43 (2024)
 - Fix lint warnings — iteration 44 (2024)
+- Add tests — iteration 47 (2024)
