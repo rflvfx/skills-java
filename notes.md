@@ -144,3 +144,4 @@
 - Add tests — iteration 5 (2024)
 - Improve naming — iteration 6 (2024)
 - Add validation — iteration 7 (2024)
+- Update config — iteration 8 (2024)
