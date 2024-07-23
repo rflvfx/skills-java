@@ -152,3 +152,4 @@ public class Streams {
 - Extend coverage — iteration 43 (2024)
 - Fix lint warnings — iteration 44 (2024)
 - Add tests — iteration 47 (2024)
+- Update docs — iteration 48 (2024)
