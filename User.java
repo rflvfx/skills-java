@@ -148,3 +148,4 @@ public record User(int id, String name, String email) {}
 - Polish code — iteration 46 (2024)
 - Improve naming — iteration 49 (2024)
 - Add validation — iteration 51 (2024)
+- Document usage — iteration 52 (2024)
