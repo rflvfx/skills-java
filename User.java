@@ -143,3 +143,4 @@ public record User(int id, String name, String email) {}
 - Fix lint warnings — iteration 27 (2024)
 - Fix typo — iteration 29 (2024)
 - Fix typo — iteration 34 (2024)
+- Add validation — iteration 35 (2024)
