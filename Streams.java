@@ -140,3 +140,4 @@ public class Streams {
 - Tweak implementation — iteration 15 (2024)
 - Add helper — iteration 16 (2024)
 - Refactor module — iteration 17 (2024)
+- Update docs — iteration 18 (2024)
