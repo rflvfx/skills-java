@@ -143,3 +143,4 @@
 - Improve error handling — iteration 59 (2023)
 - Add tests — iteration 5 (2024)
 - Improve naming — iteration 6 (2024)
+- Add validation — iteration 7 (2024)
