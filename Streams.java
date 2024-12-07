@@ -147,3 +147,4 @@ public class Streams {
 - Polish code — iteration 36 (2024)
 - Refactor module — iteration 38 (2024)
 - Add feature — iteration 39 (2024)
+- Document usage — iteration 40 (2024)
