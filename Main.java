@@ -150,3 +150,4 @@ public class Main {
 - Add example — iteration 2 (2025)
 - Improve naming — iteration 6 (2025)
 - Update docs — iteration 11 (2025)
+- Polish code — iteration 18 (2025)
