@@ -158,3 +158,4 @@ public class Streams {
 - Improve naming — iteration 9 (2025)
 - Polish code — iteration 17 (2025)
 - Minor cleanup — iteration 19 (2025)
+- Document usage — iteration 20 (2025)
