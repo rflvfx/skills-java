@@ -165,3 +165,4 @@ public record User(int id, String name, String email) {}
 - Add helper — iteration 47 (2025)
 - Refactor module — iteration 49 (2025)
 - Extend coverage — iteration 58 (2025)
+- Polish code — iteration 59 (2025)
