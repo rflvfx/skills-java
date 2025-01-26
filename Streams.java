@@ -160,3 +160,4 @@ public class Streams {
 - Minor cleanup — iteration 19 (2025)
 - Document usage — iteration 20 (2025)
 - Add feature — iteration 21 (2025)
+- Add example — iteration 22 (2025)
