@@ -160,3 +160,4 @@ public record User(int id, String name, String email) {}
 - Update dependencies — iteration 15 (2025)
 - Improve naming — iteration 26 (2025)
 - Optimize performance — iteration 27 (2025)
+- Extend coverage — iteration 36 (2025)
