@@ -157,3 +157,4 @@ public record User(int id, String name, String email) {}
 - Improve error handling — iteration 12 (2025)
 - Add example — iteration 13 (2025)
 - Refactor module — iteration 14 (2025)
+- Update dependencies — iteration 15 (2025)
