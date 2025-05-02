@@ -157,3 +157,4 @@
 - Update config — iteration 57 (2024)
 - Tweak implementation — iteration 1 (2025)
 - Fix typo — iteration 3 (2025)
+- Add validation — iteration 8 (2025)
