@@ -157,3 +157,4 @@ public class Streams {
 - Add feature — iteration 7 (2025)
 - Improve naming — iteration 9 (2025)
 - Polish code — iteration 17 (2025)
+- Minor cleanup — iteration 19 (2025)
