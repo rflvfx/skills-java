@@ -157,3 +157,4 @@ public class Main {
 - Improve naming — iteration 28 (2025)
 - Fix lint warnings — iteration 30 (2025)
 - Polish code — iteration 31 (2025)
+- Document usage — iteration 34 (2025)
