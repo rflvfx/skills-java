@@ -163,3 +163,4 @@ public class Streams {
 - Add example — iteration 22 (2025)
 - Update config — iteration 33 (2025)
 - Add example — iteration 38 (2025)
+- Minor cleanup — iteration 44 (2025)
