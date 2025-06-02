@@ -154,3 +154,4 @@ public class Streams {
 - Add tests — iteration 47 (2024)
 - Update docs — iteration 48 (2024)
 - Optimize performance — iteration 50 (2024)
+- Add feature — iteration 7 (2025)
