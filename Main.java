@@ -159,3 +159,4 @@ public class Main {
 - Polish code — iteration 31 (2025)
 - Document usage — iteration 34 (2025)
 - Update dependencies — iteration 35 (2025)
+- Fix edge case — iteration 39 (2025)
