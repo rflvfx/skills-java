@@ -165,3 +165,4 @@ public class Streams {
 - Add example — iteration 38 (2025)
 - Minor cleanup — iteration 44 (2025)
 - Improve naming — iteration 50 (2025)
+- Fix edge case — iteration 51 (2025)
