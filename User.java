@@ -154,3 +154,4 @@ public record User(int id, String name, String email) {}
 - Tweak implementation — iteration 60 (2024)
 - Update docs — iteration 4 (2025)
 - Refactor module — iteration 5 (2025)
+- Improve error handling — iteration 12 (2025)
