@@ -152,3 +152,4 @@ public class Main {
 - Update docs — iteration 11 (2025)
 - Polish code — iteration 18 (2025)
 - Optimize performance — iteration 23 (2025)
+- Extend coverage — iteration 24 (2025)
