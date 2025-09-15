@@ -153,3 +153,4 @@ public class Main {
 - Polish code — iteration 18 (2025)
 - Optimize performance — iteration 23 (2025)
 - Extend coverage — iteration 24 (2025)
+- Document usage — iteration 25 (2025)
