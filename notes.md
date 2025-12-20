@@ -161,3 +161,4 @@
 - Add validation — iteration 10 (2025)
 - Update dependencies — iteration 16 (2025)
 - Add example — iteration 29 (2025)
+- Improve naming — iteration 32 (2025)
