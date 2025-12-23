@@ -162,3 +162,4 @@
 - Update dependencies — iteration 16 (2025)
 - Add example — iteration 29 (2025)
 - Improve naming — iteration 32 (2025)
+- Refactor module — iteration 37 (2025)
