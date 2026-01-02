@@ -174,3 +174,4 @@ public record User(int id, String name, String email) {}
 - Minor cleanup — iteration 15 (2026)
 - Extend coverage — iteration 16 (2026)
 - Tweak implementation — iteration 19 (2026)
+- Update docs — iteration 20 (2026)
