@@ -175,3 +175,4 @@ public class Streams {
 - Document usage — iteration 28 (2026)
 - Improve error handling — iteration 29 (2026)
 - Update docs — iteration 38 (2026)
+- Fix lint warnings — iteration 39 (2026)
