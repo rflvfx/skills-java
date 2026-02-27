@@ -177,3 +177,4 @@ public class Streams {
 - Update docs — iteration 38 (2026)
 - Fix lint warnings — iteration 39 (2026)
 - Extend coverage — iteration 41 (2026)
+- Add tests — iteration 43 (2026)
