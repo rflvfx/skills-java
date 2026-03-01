@@ -179,3 +179,4 @@
 - Polish code — iteration 27 (2026)
 - Tweak implementation — iteration 34 (2026)
 - Update docs — iteration 35 (2026)
+- Update dependencies — iteration 36 (2026)
