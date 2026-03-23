@@ -168,3 +168,4 @@ public record User(int id, String name, String email) {}
 - Polish code — iteration 59 (2025)
 - Fix typo — iteration 60 (2025)
 - Add feature — iteration 1 (2026)
+- Improve error handling — iteration 5 (2026)
