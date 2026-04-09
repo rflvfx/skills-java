@@ -167,3 +167,4 @@ public record User(int id, String name, String email) {}
 - Extend coverage — iteration 58 (2025)
 - Polish code — iteration 59 (2025)
 - Fix typo — iteration 60 (2025)
+- Add feature — iteration 1 (2026)
