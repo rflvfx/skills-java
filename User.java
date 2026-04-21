@@ -185,3 +185,4 @@ public record User(int id, String name, String email) {}
 - Polish code — iteration 51 (2026)
 - Fix typo — iteration 55 (2026)
 - Refactor module — iteration 58 (2026)
+- Update docs — iteration 60 (2026)
