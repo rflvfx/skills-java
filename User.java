@@ -175,3 +175,4 @@ public record User(int id, String name, String email) {}
 - Extend coverage — iteration 16 (2026)
 - Tweak implementation — iteration 19 (2026)
 - Update docs — iteration 20 (2026)
+- Document usage — iteration 22 (2026)
