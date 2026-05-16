@@ -174,3 +174,4 @@
 - Minor cleanup — iteration 11 (2026)
 - Add feature — iteration 12 (2026)
 - Add example — iteration 13 (2026)
+- Extend coverage — iteration 18 (2026)
