@@ -169,3 +169,4 @@ public class Streams {
 - Tweak implementation — iteration 52 (2025)
 - Improve error handling — iteration 56 (2025)
 - Add validation — iteration 6 (2026)
+- Update dependencies — iteration 8 (2026)
