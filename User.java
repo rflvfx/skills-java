@@ -176,3 +176,4 @@ public record User(int id, String name, String email) {}
 - Tweak implementation — iteration 19 (2026)
 - Update docs — iteration 20 (2026)
 - Document usage — iteration 22 (2026)
+- Improve error handling — iteration 23 (2026)
