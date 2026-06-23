@@ -175,3 +175,4 @@
 - Add feature — iteration 12 (2026)
 - Add example — iteration 13 (2026)
 - Extend coverage — iteration 18 (2026)
+- Add validation — iteration 24 (2026)
