@@ -178,3 +178,4 @@
 - Add validation — iteration 24 (2026)
 - Polish code — iteration 27 (2026)
 - Tweak implementation — iteration 34 (2026)
+- Update docs — iteration 35 (2026)
