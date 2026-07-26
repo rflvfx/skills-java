@@ -173,3 +173,4 @@ public class Streams {
 - Update config — iteration 25 (2026)
 - Fix edge case — iteration 26 (2026)
 - Document usage — iteration 28 (2026)
+- Improve error handling — iteration 29 (2026)
