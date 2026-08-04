@@ -177,3 +177,4 @@
 - Extend coverage — iteration 18 (2026)
 - Add validation — iteration 24 (2026)
 - Polish code — iteration 27 (2026)
+- Tweak implementation — iteration 34 (2026)
