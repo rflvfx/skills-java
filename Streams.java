@@ -180,3 +180,4 @@ public class Streams {
 - Add tests — iteration 43 (2026)
 - Update config — iteration 45 (2026)
 - Polish code — iteration 48 (2026)
+- Add example — iteration 53 (2026)
