@@ -170,3 +170,4 @@ public record User(int id, String name, String email) {}
 - Add feature — iteration 1 (2026)
 - Improve error handling — iteration 5 (2026)
 - Fix lint warnings — iteration 9 (2026)
+- Add example — iteration 14 (2026)
